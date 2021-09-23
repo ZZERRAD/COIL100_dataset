@@ -1,1 +1,1 @@
-# Non_local_NNs_pytorch
+# COIL 100 Dataset
